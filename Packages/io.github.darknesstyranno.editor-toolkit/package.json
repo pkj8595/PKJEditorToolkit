@@ -1,0 +1,17 @@
+{
+  "name": "io.github.darknesstyranno.editor-toolkit",
+  "version": "0.1.0",
+  "displayName": "Tyranno Editor Toolkit",
+  "description": "Small, focused workflow tools for the Unity Editor.",
+  "unity": "6000.0",
+  "keywords": [
+    "editor",
+    "tools",
+    "workflow"
+  ],
+  "author": {
+    "name": "DarknessTyranno",
+    "url": "https://github.com/DarknessTyranno"
+  },
+  "license": "MIT"
+}
